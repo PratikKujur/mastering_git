@@ -1,4 +1,4 @@
-## Welcome to git
+## hiii git,welcome
 ## added a feature
 
-- It is coming from test_branch branch
+-- wasssup,it is comming from conflicts
